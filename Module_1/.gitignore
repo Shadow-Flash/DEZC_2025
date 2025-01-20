@@ -1,0 +1,6 @@
+terrademo/.terraform/*
+terrademo/.terraform.lock.hcl
+terrademo/.terraform.lock.hcl
+terrademo/terraform.tfstate
+terrademo/terraform.tfstate.backup
+ny_taxi_postgress_data

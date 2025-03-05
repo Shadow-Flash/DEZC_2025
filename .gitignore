@@ -1,0 +1,8 @@
+.DS_Store
+/Module_4/logs
+/Module_5/.ipynb_checkpoints
+/Module_5/data
+/Module_5/fhvhv
+/Module_5/*.csv.gz
+/Module_5/*.parquet
+/Module_5/*.csv
